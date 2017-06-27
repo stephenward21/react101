@@ -1,0 +1,14 @@
+body{
+	margin-top: 20px;
+	text-align: center;
+}
+
+.name {
+	text-align: center;
+	/*margin-left: 300px;*/
+}
+
+.price {
+	text-align: center;
+	/*margin-right: 300px;*/
+}
